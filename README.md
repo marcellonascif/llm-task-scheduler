@@ -1,1 +1,2 @@
-# llm-task-plan
+# Description
+This project explores the use of Gemini (Google Generative AI) to automatically generate action plans from user-submitted task prompts. We compare two approaches: a baseline that creates a simple action plan without breaking down the task, and another that decomposes the task into detailed subtasks. The goal is to analyze and compare the effectiveness of both strategies for personal task management scenarios.
