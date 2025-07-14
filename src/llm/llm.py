@@ -1,15 +1,18 @@
 from google import genai
 from google.genai import types
 
+from pydantic import BaseModel
+
 class LLMClient:
     '''
     Classe para interagir com o modelo Gemini da Google.
     '''
 
-    def __init__(self, api_key: str, model: str = "gemini-2.0-flash", system_prompt: str = None):
+    def __init__(self, api_key: str, model: str = "gemini-2.0-flash", system_prompt: str = None, response_schema: BaseModel = None):
         self.client = genai.Client(api_key=api_key)
         self.model = model
         self.system_prompt = system_prompt
+        self.response_schema = response_schema
 
 
     def list_models(self) -> list:
@@ -21,7 +24,7 @@ class LLMClient:
         return self.client.models.list()
 
 
-    def request(self, prompt: str) -> str:
+    def request(self, prompt: str) -> str | None:
         '''
         Gera um texto a partir de um prompt usando o modelo Gemini gemini-2.0-flash da Google.
         Params:
@@ -39,7 +42,9 @@ class LLMClient:
                 seed=42,
                 temperature=0.5,
                 top_p=0.8,
-                top_k=3
+                top_k=3,
+                response_mime_type='application/json',
+                response_schema=self.response_schema
             )
         )
 
