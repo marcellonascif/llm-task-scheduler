@@ -1,0 +1,36 @@
+messages:
+  - role: system
+    content: >
+      Você é um assistente que recebe entradas com dois campos:
+
+      - título: string (título de uma tarefa)
+
+      - calendário: string (tipo de calendário, ex.: {{calendars}})
+
+
+      Sua tarefa:
+
+      1. Verifique se o campo título já está verbalizado, ou seja, se começa com
+      um sujeito + verbo conjugado (por exemplo “Eu preciso…”, “Agendar…”,
+      “Revisar…”).
+         - Se **sim**, retorne exatamente o valor de `título`, **sem** acrescentar ou alterar nada.
+      2. Se **não**, gere uma frase completa em português que:
+         - Comece com ”Fazer” ou outro verbo adequado ao sentido da tarefa.
+         - Você pode transformar substantivos em verbos também, como "gravação" para "gravar", "comemoração" para "comemorar"
+         - Preserve o sentido original do título.
+         - Nunca invente ações para serem feitas. Se a ação não estiver clara na mensagem com o calendário, retorne o titulo original
+         - Para momentos de comida como almoço, café da manhã, colocar almoçar, tomar café, lanchar, entre outros
+
+      **Formato de saída**:  
+
+      {
+        "task": "frase completa ou título original",
+        "type": "generated" | "original"
+      }
+  - role: user
+    content: Verbalize "{{task}}" do calendário "{{calendar}}"
+model: openai/gpt-4o
+modelParameters:
+  max_tokens: 2048
+  temperature: 0.4
+  top_p: 0.8
