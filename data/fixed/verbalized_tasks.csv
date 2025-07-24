@@ -1,0 +1,1906 @@
+SUMMARY,CALENDAR,VERBALIZED
+cafe da manha,Alimentação,"```json
+{
+  ""task"": ""Tomar café da manhã"",
+  ""type"": ""generated""
+}
+```"
+lanche da manha,Alimentação,"```json
+{
+  ""task"": ""Lanchar de manhã"",
+  ""type"": ""generated""
+}
+```"
+almoco,Alimentação,"```json
+{
+  ""task"": ""Almoçar"",
+  ""type"": ""generated""
+}
+```"
+lanche da tarde,Alimentação,"```json
+{
+  ""task"": ""Lanchar à tarde"",
+  ""type"": ""generated""
+}
+```"
+pre-treino,Alimentação,"```json
+{
+  ""task"": ""Tomar o pré-treino"",
+  ""type"": ""generated""
+}
+```"
+jantar,Alimentação,"```json
+{
+  ""task"": ""Jantar"",
+  ""type"": ""generated""
+}
+```"
+inf1410 - gerencia de projetos de informatica,PUC,"```json
+{
+  ""task"": ""Estudar a disciplina INF1410 - Gerência de Projetos de Informática"",
+  ""type"": ""generated""
+}
+```"
+inf1608 - analise numerica,PUC,"```json
+{
+  ""task"": ""Estudar inf1608 - Análise Numérica"",
+  ""type"": ""generated""
+}
+```"
+adm1019 - introducao a finanças,PUC,"```json
+{
+  ""task"": ""Estudar adm1019 - introdução a finanças"",
+  ""type"": ""generated""
+}
+```"
+inf1629 - principios de engenharia de software,PUC,"```json
+{
+  ""task"": ""Estudar INF1629 - Princípios de Engenharia de Software"",
+  ""type"": ""generated""
+}
+```"
+parabens!,Pessoal,"```json
+{
+  ""task"": ""Dar parabéns"",
+  ""type"": ""generated""
+}
+```"
+psiquiatra,Saúde,"```json
+{
+  ""task"": ""Consultar o psiquiatra"",
+  ""type"": ""generated""
+}
+```"
+rm,Compromisso,"```json
+{
+  ""task"": ""rm"",
+  ""type"": ""original""
+}
+```"
+p3,Compromisso,"```json
+{
+  ""task"": ""p3"",
+  ""type"": ""original""
+}
+```"
+psicologo,Saúde,"```json
+{
+  ""task"": ""Consultar o psicólogo"",
+  ""type"": ""generated""
+}
+```"
+zion,Compromisso,"```json
+{
+  ""task"": ""zion"",
+  ""type"": ""original""
+}
+```"
+autoescola,Compromisso,"```json
+{
+  ""task"": ""Fazer autoescola"",
+  ""type"": ""generated""
+}
+```"
+aula de violao,Compromisso,"```json
+{
+  ""task"": ""Fazer aula de violão"",
+  ""type"": ""generated""
+}
+```"
+cortar cabelo,Compromisso,"```json
+{
+  ""task"": ""Fazer o corte de cabelo"",
+  ""type"": ""generated""
+}
+```"
+aula de musica,Compromisso,"```json
+{
+  ""task"": ""Fazer aula de música"",
+  ""type"": ""generated""
+}
+```"
+centro,Compromisso,"```json
+{
+  ""task"": ""Ir ao centro"",
+  ""type"": ""generated""
+}
+```"
+conversa puc,Compromisso,"```json
+{
+  ""task"": ""Conversar na PUC"",
+  ""type"": ""generated""
+}
+```"
+auto escola: prova pratica,Compromisso,"```json
+{
+  ""task"": ""Fazer a prova prática da auto escola"",
+  ""type"": ""generated""
+}
+```"
+detran,Compromisso,"```json
+{
+  ""task"": ""Ir ao Detran"",
+  ""type"": ""generated""
+}
+```"
+aula de canto,Compromisso,"```json
+{
+  ""task"": ""Fazer aula de canto"",
+  ""type"": ""generated""
+}
+```"
+aula de guitarra,Compromisso,"```json
+{
+  ""task"": ""Fazer aula de guitarra"",
+  ""type"": ""generated""
+}
+```"
+graduacao muay thai,Compromisso,"```json
+{
+  ""task"": ""Fazer a graduação de Muay Thai"",
+  ""type"": ""generated""
+}
+```"
+visita rede,Compromisso,"```json
+{
+  ""task"": ""Visitar a rede"",
+  ""type"": ""generated""
+}
+```"
+mago da musica link,Compromisso,"```json
+{
+  ""task"": ""mago da musica link"",
+  ""type"": ""original""
+}
+```"
+conversa pedro,Compromisso,"```json
+{
+  ""task"": ""Conversar com Pedro"",
+  ""type"": ""generated""
+}
+```"
+t2 algebra,Exames,"```json
+{
+  ""task"": ""Fazer a prova de álgebra 2"",
+  ""type"": ""generated""
+}
+```"
+prova auto escola,Exames,"```json
+{
+  ""task"": ""Fazer a prova da auto escola"",
+  ""type"": ""generated""
+}
+```"
+inf1301 - relatorio plano de acao,Exames,"```json
+{
+  ""task"": ""Preparar o relatório do plano de ação de inf1301"",
+  ""type"": ""generated""
+}
+```"
+p1 inf1018,Exames,"```json
+{
+  ""task"": ""Fazer a prova 1 de INF1018"",
+  ""type"": ""generated""
+}
+```"
+p1 progmod,Exames,"```json
+{
+  ""task"": ""Fazer a P1 de Programação Modular"",
+  ""type"": ""generated""
+}
+```"
+entrega trabalho inf1018,Exames,"```json
+{
+  ""task"": ""Entregar trabalho inf1018"",
+  ""type"": ""generated""
+}
+```"
+t3 algebra,Exames,"```json
+{
+  ""task"": ""Fazer a prova de álgebra 3"",
+  ""type"": ""generated""
+}
+```"
+t4 algebra,Exames,"```json
+{
+  ""task"": ""Fazer a prova de álgebra 4"",
+  ""type"": ""generated""
+}
+```"
+p2 inf1018,Exames,"```json
+{
+  ""task"": ""Fazer a p2 de inf1018"",
+  ""type"": ""generated""
+}
+```"
+p2 algebra,Exames,"```json
+{
+  ""task"": ""Fazer a P2 de Álgebra"",
+  ""type"": ""generated""
+}
+```"
+trab inf1018,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho de INF1018"",
+  ""type"": ""generated""
+}
+```"
+p3 algebra,Exames,"```json
+{
+  ""task"": ""Fazer a prova 3 de álgebra"",
+  ""type"": ""generated""
+}
+```"
+p2 progmod,Exames,"```json
+{
+  ""task"": ""Fazer a P2 de Programação Modular"",
+  ""type"": ""generated""
+}
+```"
+avaliacao 1 algebra,Exames,"```json
+{
+  ""task"": ""Fazer a avaliação 1 de álgebra"",
+  ""type"": ""generated""
+}
+```"
+p1 calculo,Exames,"```json
+{
+  ""task"": ""Fazer a P1 de Cálculo"",
+  ""type"": ""generated""
+}
+```"
+t1 maple algebra,Exames,"```json
+{
+  ""task"": ""Fazer o teste 1 de álgebra com Maple"",
+  ""type"": ""generated""
+}
+```"
+avaliacao 2 algebra,Exames,"```json
+{
+  ""task"": ""Fazer a avaliação 2 de álgebra"",
+  ""type"": ""generated""
+}
+```"
+p1 algebra,Exames,"```json
+{
+  ""task"": ""Fazer a P1 de Álgebra"",
+  ""type"": ""generated""
+}
+```"
+teste 1 probcomp,Exames,"```json
+{
+  ""task"": ""Fazer teste 1 probcomp"",
+  ""type"": ""generated""
+}
+```"
+av. lab1 calculo,Exames,"```json
+{
+  ""task"": ""Fazer a avaliação do laboratório 1 de Cálculo"",
+  ""type"": ""generated""
+}
+```"
+trabalho 2 iac,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho 2 iac"",
+  ""type"": ""generated""
+}
+```"
+trabalho 3 iac,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho 3 de IAC"",
+  ""type"": ""generated""
+}
+```"
+trab g1 probcomp,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho G1 de ProbComp"",
+  ""type"": ""generated""
+}
+```"
+teste 2 probcomp,Exames,"```json
+{
+  ""task"": ""Fazer o teste 2 de probcomp"",
+  ""type"": ""generated""
+}
+```"
+avaliacao 3 algebra,Exames,"```json
+{
+  ""task"": ""Fazer avaliação 3 de álgebra"",
+  ""type"": ""generated""
+}
+```"
+p1 iac,Exames,"```json
+{
+  ""task"": ""Fazer a P1 de IAC"",
+  ""type"": ""generated""
+}
+```"
+avaliacao 4 algebra,Exames,"```json
+{
+  ""task"": ""Fazer a avaliação 4 de álgebra"",
+  ""type"": ""generated""
+}
+```"
+tete 2 maple algebra,Exames,"```json
+{
+  ""task"": ""Fazer o teste de Maple Algebra 2"",
+  ""type"": ""generated""
+}
+```"
+semana 6,Exames,"```json
+{
+  ""task"": ""Estudar para os exames da semana 6"",
+  ""type"": ""generated""
+}
+```"
+semana 7,Exames,"```json
+{
+  ""task"": ""Fazer exames da semana 7"",
+  ""type"": ""generated""
+}
+```"
+semana 8,Exames,"```json
+{
+  ""task"": ""Fazer os exames da semana 8"",
+  ""type"": ""generated""
+}
+```"
+atividade 2 calculo,Exames,"```json
+{
+  ""task"": ""Fazer a atividade 2 de cálculo"",
+  ""type"": ""generated""
+}
+```"
+semana 10,Exames,"```json
+{
+  ""task"": ""Estudar para os exames da semana 10"",
+  ""type"": ""generated""
+}
+```"
+semana 9,Exames,"```json
+{
+  ""task"": ""Fazer os exames da semana 9"",
+  ""type"": ""generated""
+}
+```"
+semana 11,Exames,"```json
+{
+  ""task"": ""Fazer os exames da semana 11"",
+  ""type"": ""generated""
+}
+```"
+p2 calculo,Exames,"```json
+{
+  ""task"": ""Fazer a P2 de cálculo"",
+  ""type"": ""generated""
+}
+```"
+av. lab2 calculo,Exames,"```json
+{
+  ""task"": ""Fazer a avaliação do laboratório 2 de cálculo"",
+  ""type"": ""generated""
+}
+```"
+av extra algebra,Exames,"```json
+{
+  ""task"": ""Fazer a avaliação extra de álgebra"",
+  ""type"": ""generated""
+}
+```"
+av extra c algebra,Exames,"```json
+{
+  ""task"": ""Fazer a avaliação extra de álgebra"",
+  ""type"": ""generated""
+}
+```"
+av extra d algebra,Exames,"```json
+{
+  ""task"": ""Fazer a avaliação extra de álgebra"",
+  ""type"": ""generated""
+}
+```"
+avaliacao 5 algebra,Exames,"```json
+{
+  ""task"": ""Fazer a avaliação de álgebra 5"",
+  ""type"": ""generated""
+}
+```"
+trabalho 4 iac,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho 4 de IAC"",
+  ""type"": ""generated""
+}
+```"
+av 6 algebra,Exames,"```json
+{
+  ""task"": ""Fazer a avaliação 6 de álgebra"",
+  ""type"": ""generated""
+}
+```"
+p2 iac,Exames,"```json
+{
+  ""task"": ""Fazer a prova p2 iac"",
+  ""type"": ""generated""
+}
+```"
+teste e medicao: atividade 1,Exames,"```json
+{
+  ""task"": ""Realizar teste e medição da atividade 1"",
+  ""type"": ""generated""
+}
+```"
+so: lab 2,Exames,
+atividade teste,Exames,"```json
+{
+  ""task"": ""Fazer uma atividade teste"",
+  ""type"": ""generated""
+}
+```"
+poo: p1,Exames,"```json
+{
+  ""task"": ""Fazer o exame poo: p1"",
+  ""type"": ""generated""
+}
+```"
+teste e medcao: p1,Exames,"```json
+{
+  ""task"": ""Testar e medir p1"",
+  ""type"": ""generated""
+}
+```"
+poo: trab i,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho I de POO"",
+  ""type"": ""generated""
+}
+```"
+bd: t2,Exames,"```json
+{
+  ""task"": ""bd: t2"",
+  ""type"": ""original""
+}
+```"
+so: p1,Exames,"```json
+{
+  ""task"": ""so: p1"",
+  ""type"": ""original""
+}
+```"
+bd: trab 1,Exames,"```json
+{
+  ""task"": ""Fazer trabalho 1 de banco de dados"",
+  ""type"": ""generated""
+}
+```"
+poo: trab ii,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho II de POO"",
+  ""type"": ""generated""
+}
+```"
+so: trab 1,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho 1"",
+  ""type"": ""generated""
+}
+```"
+bd: t3,Exames,"```json
+{
+  ""task"": ""Fazer bd: t3"",
+  ""type"": ""generated""
+}
+```"
+so: lab 5,Exames,"```json
+{
+  ""task"": ""Fazer o laboratório 5 de Sistemas Operacionais"",
+  ""type"": ""generated""
+}
+```"
+poo: trab iii,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho III de POO"",
+  ""type"": ""generated""
+}
+```"
+bd: t1 g2,Exames,"```json
+{
+  ""task"": ""Fazer o exame bd: t1 g2"",
+  ""type"": ""generated""
+}
+```"
+poo: trab iv,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho IV de Programação Orientada a Objetos"",
+  ""type"": ""generated""
+}
+```"
+tms: atividade 3,Exames,"```json
+{
+  ""task"": ""Fazer a atividade 3 de tms"",
+  ""type"": ""generated""
+}
+```"
+so: lab 6,Exames,"```json
+{
+  ""task"": ""Fazer o so: laboratório 6"",
+  ""type"": ""generated""
+}
+```"
+tms: p2,Exames,"```json
+{
+  ""task"": ""Fazer o exame tms: p2"",
+  ""type"": ""generated""
+}
+```"
+bd: trab 2,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho 2 de banco de dados"",
+  ""type"": ""generated""
+}
+```"
+poo: apresentacao,Exames,"```json
+{
+  ""task"": ""Apresentar POO"",
+  ""type"": ""generated""
+}
+```"
+bd: t2 g2,Exames,"```json
+{
+  ""task"": ""bd: t2 g2"",
+  ""type"": ""original""
+}
+```"
+so: p2,Exames,"```json
+{
+  ""task"": ""so: p2"",
+  ""type"": ""original""
+}
+```"
+ihc: trab ii,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho II de IHC"",
+  ""type"": ""generated""
+}
+```"
+so: trab 2,Exames,
+ihc: apresentacao,Exames,"```json
+{
+  ""task"": ""Apresentar IHC"",
+  ""type"": ""generated""
+}
+```"
+de-para,PUC,"```json
+{
+  ""task"": ""Fazer o de-para"",
+  ""type"": ""generated""
+}
+```"
+de/para alternativo,Exames,"```json
+{
+  ""task"": ""de/para alternativo"",
+  ""type"": ""original""
+}
+```"
+cd - apresentacao,Exames,"```json
+{
+  ""task"": ""Fazer a apresentação do CD"",
+  ""type"": ""generated""
+}
+```"
+pcs: apresentacao,Exames,"```json
+{
+  ""task"": ""Fazer a apresentação de pcs"",
+  ""type"": ""generated""
+}
+```"
+redes: p1,Exames,"```json
+{
+  ""task"": ""Fazer o exame de redes: p1"",
+  ""type"": ""generated""
+}
+```"
+ed: p1,Exames,"```json
+{
+  ""task"": ""ed: p1"",
+  ""type"": ""original""
+}
+```"
+pcs: apresentacao g2,Exames,"```json
+{
+  ""task"": ""Apresentar o trabalho de pcs do grupo 2"",
+  ""type"": ""generated""
+}
+```"
+redes: trab 1,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho 1 de Redes"",
+  ""type"": ""generated""
+}
+```"
+cd: apresentacao g2,Exames,"```json
+{
+  ""task"": ""Apresentar o G2"",
+  ""type"": ""generated""
+}
+```"
+redes: p2,Exames,"```json
+{
+  ""task"": ""Fazer a prova de redes p2"",
+  ""type"": ""generated""
+}
+```"
+ed: p2,Exames,"```json
+{
+  ""task"": ""Fazer a prova 2 de ED"",
+  ""type"": ""generated""
+}
+```"
+ed: lista 4,Exames,"```json
+{
+  ""task"": ""Fazer a lista 4 de estudo dirigido"",
+  ""type"": ""generated""
+}
+```"
+p2 - eda,Exames,
+apresentacao t2 - eda,Exames,"```json
+{
+  ""task"": ""Apresentar t2 - eda"",
+  ""type"": ""generated""
+}
+```"
+pf - eda,Exames,"```json
+{
+  ""task"": ""Fazer o exame pf - eda"",
+  ""type"": ""generated""
+}
+```"
+psr: mp1,Exames,"```json
+{
+  ""task"": ""Fazer o exame psr: mp1"",
+  ""type"": ""generated""
+}
+```"
+aa: p1,Exames,"```json
+{
+  ""task"": ""aa: p1"",
+  ""type"": ""original""
+}
+```"
+als - p1,Exames,"```json
+{
+  ""task"": ""als - p1"",
+  ""type"": ""original""
+}
+```"
+probcomp - t1,Exames,"```json
+{
+  ""task"": ""Fazer a prova 1 de Probabilidade Computacional"",
+  ""type"": ""generated""
+}
+```"
+aa: p2,Exames,"```json
+{
+  ""task"": ""aa: p2"",
+  ""type"": ""original""
+}
+```"
+trabalho 2 aa,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho 2 aa"",
+  ""type"": ""generated""
+}
+```"
+probcomp - t2,Exames,"```json
+{
+  ""task"": ""Fazer probcomp - t2"",
+  ""type"": ""generated""
+}
+```"
+als - p2,Exames,"```json
+{
+  ""task"": ""Fazer o exame als - p2"",
+  ""type"": ""generated""
+}
+```"
+aa: p3,Exames,"```json
+{
+  ""task"": ""aa: p3"",
+  ""type"": ""original""
+}
+```"
+apresentacao estagio,Exames,"```json
+{
+  ""task"": ""Apresentar o estágio"",
+  ""type"": ""generated""
+}
+```"
+trabalho 3 aa,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho 3 aa"",
+  ""type"": ""generated""
+}
+```"
+probcomp - p2,Exames,"```json
+{
+  ""task"": ""Fazer a prova de Probcomp - P2"",
+  ""type"": ""generated""
+}
+```"
+trabalho als,Exames,"```json
+{
+  ""task"": ""Fazer o trabalho als"",
+  ""type"": ""generated""
+}
+```"
+projeto final psr,Exames,"```json
+{
+  ""task"": ""Fazer o projeto final PSR"",
+  ""type"": ""generated""
+}
+```"
+birusamba de verao,Social,"```json
+{
+  ""task"": ""Participar do birusamba de verão"",
+  ""type"": ""generated""
+}
+```"
+t2 calculo,Exames,"```json
+{
+  ""task"": ""Fazer a t2 de cálculo"",
+  ""type"": ""generated""
+}
+```"
+p3 calculo,Exames,"```json
+{
+  ""task"": ""Fazer a P3 de cálculo"",
+  ""type"": ""generated""
+}
+```"
+dr bruno,Saúde,"```json
+{
+  ""task"": ""Consultar o Dr. Bruno"",
+  ""type"": ""generated""
+}
+```"
+quiropraxia,Saúde,"```json
+{
+  ""task"": ""Fazer quiropraxia"",
+  ""type"": ""generated""
+}
+```"
+exame de imagem,Saúde,"```json
+{
+  ""task"": ""Fazer exame de imagem"",
+  ""type"": ""generated""
+}
+```"
+cirurgiao,Saúde,"```json
+{
+  ""task"": ""Consultar o cirurgião"",
+  ""type"": ""generated""
+}
+```"
+ortopedista,Saúde,"```json
+{
+  ""task"": ""Consultar o ortopedista"",
+  ""type"": ""generated""
+}
+```"
+dermatologista,Saúde,"```json
+{
+  ""task"": ""Consultar o dermatologista"",
+  ""type"": ""generated""
+}
+```"
+exame de sangue,Saúde,"```json
+{
+  ""task"": ""Fazer exame de sangue"",
+  ""type"": ""generated""
+}
+```"
+endoscopia,Saúde,"```json
+{
+  ""task"": ""Fazer endoscopia"",
+  ""type"": ""generated""
+}
+```"
+dentista,Saúde,"```json
+{
+  ""task"": ""Ir ao dentista"",
+  ""type"": ""generated""
+}
+```"
+exames de imagem,Saúde,"```json
+{
+  ""task"": ""Fazer exames de imagem"",
+  ""type"": ""generated""
+}
+```"
+bioimpedancia,Saúde,"```json
+{
+  ""task"": ""Fazer bioimpedância"",
+  ""type"": ""generated""
+}
+```"
+oftalmologista,Saúde,"```json
+{
+  ""task"": ""Consultar o oftalmologista"",
+  ""type"": ""generated""
+}
+```"
+livre,Saúde,"```json
+{
+  ""task"": ""livre"",
+  ""type"": ""original""
+}
+```"
+viviane nutri,Saúde,"```json
+{
+  ""task"": ""Consultar Viviane Nutri"",
+  ""type"": ""generated""
+}
+```"
+dra. vania,Saúde,"```json
+{
+  ""task"": ""Agendar consulta com dra. Vania"",
+  ""type"": ""generated""
+}
+```"
+pilates,Saúde,"```json
+{
+  ""task"": ""Fazer pilates"",
+  ""type"": ""generated""
+}
+```"
+nutricionista,Saúde,"```json
+{
+  ""task"": ""Consultar a nutricionista"",
+  ""type"": ""generated""
+}
+```"
+hogwarts legacy,Games,"```json
+{
+  ""task"": ""Jogar Hogwarts Legacy"",
+  ""type"": ""generated""
+}
+```"
+minecraft: legends,Games,"```json
+{
+  ""task"": ""Jogar Minecraft: Legends"",
+  ""type"": ""generated""
+}
+```"
+diablo iv,Games,"```json
+{
+  ""task"": ""Jogar Diablo IV"",
+  ""type"": ""generated""
+}
+```"
+gmtk gamejam,Games,"```json
+{
+  ""task"": ""Participar da GMTK Gamejam"",
+  ""type"": ""generated""
+}
+```"
+academia,Exercícios,"```json
+{
+  ""task"": ""Ir à academia"",
+  ""type"": ""generated""
+}
+```"
+futevolei,Exercícios,"```json
+{
+  ""task"": ""Jogar futevolei"",
+  ""type"": ""generated""
+}
+```"
+academia ideal,Exercícios,"```json
+{
+  ""task"": ""Encontrar a academia ideal"",
+  ""type"": ""generated""
+}
+```"
+muay thai,Exercícios,"```json
+{
+  ""task"": ""Fazer muay thai"",
+  ""type"": ""generated""
+}
+```"
+basquete puc,Exercícios,"```json
+{
+  ""task"": ""Jogar basquete na PUC"",
+  ""type"": ""generated""
+}
+```"
+spinning,Exercícios,"```json
+{
+  ""task"": ""Fazer spinning"",
+  ""type"": ""generated""
+}
+```"
+aula da liane,Pessoal,"```json
+{
+  ""task"": ""Fazer a aula da Liane"",
+  ""type"": ""generated""
+}
+```"
+casa do felipe,Pessoal,"```json
+{
+  ""task"": ""Ir à casa do Felipe"",
+  ""type"": ""generated""
+}
+```"
+aniversario da minha irma,Pessoal,"```json
+{
+  ""task"": ""Comemorar o aniversário da minha irmã"",
+  ""type"": ""generated""
+}
+```"
+aniversario da minha mae,Pessoal,"```json
+{
+  ""task"": ""Comemorar o aniversário da minha mãe"",
+  ""type"": ""generated""
+}
+```"
+ps plus,Pessoal,"```json
+{
+  ""task"": ""Comprar PS Plus"",
+  ""type"": ""generated""
+}
+```"
+meu aniversario,Pessoal,"```json
+{
+  ""task"": ""Comemorar meu aniversário"",
+  ""type"": ""generated""
+}
+```"
+aniversario do meu pai,Pessoal,"```json
+{
+  ""task"": ""Comemorar o aniversário do meu pai"",
+  ""type"": ""generated""
+}
+```"
+lembrar marie,Pessoal,"```json
+{
+  ""task"": ""lembrar marie"",
+  ""type"": ""original""
+}
+```"
+formatura csa,Pessoal,"```json
+{
+  ""task"": ""Participar da formatura CSA"",
+  ""type"": ""generated""
+}
+```"
+help!,Pessoal,"```json
+{
+  ""task"": ""help!"",
+  ""type"": ""original""
+}
+```"
+aula,PUC,"```json
+{
+  ""task"": ""Assistir aula"",
+  ""type"": ""generated""
+}
+```"
+baile da gaiola,Pessoal,"```json
+{
+  ""task"": ""Ir ao baile da gaiola"",
+  ""type"": ""generated""
+}
+```"
+amazonia,Pessoal,"```json
+{
+  ""task"": ""amazonia"",
+  ""type"": ""original""
+}
+```"
+aniversario de namoro,Pessoal,"```json
+{
+  ""task"": ""Comemorar o aniversário de namoro"",
+  ""type"": ""generated""
+}
+```"
+estudar calculo e ficha 2,Pessoal,"```json
+{
+  ""task"": ""estudar calculo e ficha 2"",
+  ""type"": ""original""
+}
+```"
+season nova rl,Pessoal,"```json
+{
+  ""task"": ""Jogar a nova season de Rocket League"",
+  ""type"": ""generated""
+}
+```"
+black friday,Pessoal,"```json
+{
+  ""task"": ""Fazer compras na Black Friday"",
+  ""type"": ""generated""
+}
+```"
+facetime alessandra,Pessoal,"```json
+{
+  ""task"": ""Fazer Facetime com Alessandra"",
+  ""type"": ""generated""
+}
+```"
+estudo,Pessoal,"```json
+{
+  ""task"": ""Estudar"",
+  ""type"": ""generated""
+}
+```"
+arrumar,Pessoal,"```json
+{
+  ""task"": ""arrumar"",
+  ""type"": ""original""
+}
+```"
+barra shopping,Pessoal,"```json
+{
+  ""task"": ""Ir ao Barra Shopping"",
+  ""type"": ""generated""
+}
+```"
+[nubank] vencimento da fatura de marco,Pessoal,"```json
+{
+  ""task"": ""Pagar a fatura de março do Nubank"",
+  ""type"": ""generated""
+}
+```"
+almoco,Pessoal,"```json
+{
+  ""task"": ""Almoçar"",
+  ""type"": ""generated""
+}
+```"
+feriado,Pessoal,"```json
+{
+  ""task"": ""Aproveitar o feriado"",
+  ""type"": ""generated""
+}
+```"
+itaipava,Social,"```json
+{
+  ""task"": ""Ir a Itaipava"",
+  ""type"": ""generated""
+}
+```"
+niver,Pessoal,"```json
+{
+  ""task"": ""Comemorar o aniversário"",
+  ""type"": ""generated""
+}
+```"
+foco,Pessoal,"```json
+{
+  ""task"": ""Manter o foco"",
+  ""type"": ""generated""
+}
+```"
+primo rico,Pessoal,"```json
+{
+  ""task"": ""primo rico"",
+  ""type"": ""original""
+}
+```"
+devolucao zara,Pessoal,"```json
+{
+  ""task"": ""Devolver compras da Zara"",
+  ""type"": ""generated""
+}
+```"
+reuniao de cronograma do acessorio,Pessoal,"```json
+{
+  ""task"": ""Fazer a reunião de cronograma do acessório"",
+  ""type"": ""generated""
+}
+```"
+corte masculino,Pessoal,"```json
+{
+  ""task"": ""Fazer corte masculino"",
+  ""type"": ""generated""
+}
+```"
+gravacao comunicacao intercriar,Pessoal,"```json
+{
+  ""task"": ""Gravar a comunicação intercriar"",
+  ""type"": ""generated""
+}
+```"
+oportunidade guelt | felipe khouri gameleira,Pessoal,"```json
+{
+  ""task"": ""Aproveitar a oportunidade guelt com Felipe Khouri Gameleira"",
+  ""type"": ""generated""
+}
+```"
+wwdc-ss crash challenge,Pessoal,"```json
+{
+  ""task"": ""Fazer o desafio de crash da wwdc-ss"",
+  ""type"": ""generated""
+}
+```"
+aldeia,Social,"```json
+{
+  ""task"": ""aldeia"",
+  ""type"": ""original""
+}
+```"
+call checkpoint acessorio,Pessoal,"```json
+{
+  ""task"": ""Ligar para o checkpoint acessório"",
+  ""type"": ""generated""
+}
+```"
+aldeia sabado [feriado],Pessoal,"```json
+{
+  ""task"": ""Ir para a aldeia no sábado de feriado"",
+  ""type"": ""generated""
+}
+```"
+aldeia sabado,Pessoal,"```json
+{
+  ""task"": ""Ir à aldeia no sábado"",
+  ""type"": ""generated""
+}
+```"
+gravacao acessorio,Pessoal,"```json
+{
+  ""task"": ""Gravar acessório"",
+  ""type"": ""generated""
+}
+```"
+fone,Pessoal,"```json
+{
+  ""task"": ""fone"",
+  ""type"": ""original""
+}
+```"
+quadcast,Pessoal,"```json
+{
+  ""task"": ""quadcast"",
+  ""type"": ""original""
+}
+```"
+gmkt jam - entrega,Pessoal,"```json
+{
+  ""task"": ""Entregar o gmkt jam"",
+  ""type"": ""generated""
+}
+```"
+reuniao com outsystems,Pessoal,"```json
+{
+  ""task"": ""Fazer reunião com Outsystems"",
+  ""type"": ""generated""
+}
+```"
+wwdc teaching - kick off,Pessoal,"```json
+{
+  ""task"": ""Fazer o kick off do ensino da WWDC"",
+  ""type"": ""generated""
+}
+```"
+wwdc teaching - first steps,Pessoal,"```json
+{
+  ""task"": ""Dar os primeiros passos para ensinar na WWDC"",
+  ""type"": ""generated""
+}
+```"
+avaliacao imobiliaria,Pessoal,"```json
+{
+  ""task"": ""Fazer a avaliação imobiliária"",
+  ""type"": ""generated""
+}
+```"
+wwdc ilearning,Pessoal,"```json
+{
+  ""task"": ""Fazer o ilearning da WWDC"",
+  ""type"": ""generated""
+}
+```"
+mentoria inversu (felipe gameleira),Pessoal,"```json
+{
+  ""task"": ""Fazer mentoria inversu (felipe gameleira)"",
+  ""type"": ""generated""
+}
+```"
+decompress,Pessoal,"```json
+{
+  ""task"": ""Descomprimir"",
+  ""type"": ""generated""
+}
+```"
+mentoria inversu - felipe gameleira,Pessoal,"```json
+{
+  ""task"": ""Fazer mentoria Inversu com Felipe Gameleira"",
+  ""type"": ""generated""
+}
+```"
+reservation at yusha,Pessoal,"```json
+{
+  ""task"": ""Fazer uma reserva no Yusha"",
+  ""type"": ""generated""
+}
+```"
+entrevista estagio: felipe,Pessoal,"```json
+{
+  ""task"": ""Entrevistar Felipe para o estágio"",
+  ""type"": ""generated""
+}
+```"
+entrevista estagio desenvolvedor: felipe,Pessoal,"```json
+{
+  ""task"": ""Entrevistar Felipe para estágio de desenvolvedor"",
+  ""type"": ""generated""
+}
+```"
+estudar calculo,Pessoal,"```json
+{
+  ""task"": ""Estudar cálculo"",
+  ""type"": ""generated""
+}
+```"
+ai salon rio de janeiro,Pessoal,"```json
+{
+  ""task"": ""Ir para o AI Salon no Rio de Janeiro"",
+  ""type"": ""generated""
+}
+```"
+ia &,Pessoal,"```json
+{
+  ""task"": ""ia &"",
+  ""type"": ""original""
+}
+```"
+ai salon rio de janeiro #4,Pessoal,"```json
+{
+  ""task"": ""ai salon rio de janeiro #4"",
+  ""type"": ""original""
+}
+```"
+ajuste de matricula,PUC,"```json
+{
+  ""task"": ""Ajustar a matrícula"",
+  ""type"": ""generated""
+}
+```"
+ajuste de matricula ii,PUC,"```json
+{
+  ""task"": ""Fazer ajuste de matrícula II"",
+  ""type"": ""generated""
+}
+```"
+volta as aulas,PUC,"```json
+{
+  ""task"": ""Voltar às aulas"",
+  ""type"": ""generated""
+}
+```"
+inf1301 - programacao modular,PUC,"```json
+{
+  ""task"": ""Estudar programação modular para INF1301"",
+  ""type"": ""generated""
+}
+```"
+inf1018 - software basico,PUC,"```json
+{
+  ""task"": ""Estudar inf1018 - software basico"",
+  ""type"": ""generated""
+}
+```"
+mat1260 - algebra linear 1,PUC,"```json
+{
+  ""task"": ""Estudar mat1260 - algebra linear 1"",
+  ""type"": ""generated""
+}
+```"
+de para,PUC,"```json
+{
+  ""task"": ""de para"",
+  ""type"": ""original""
+}
+```"
+t1 algebra,PUC,"```json
+{
+  ""task"": ""Fazer t1 de álgebra"",
+  ""type"": ""generated""
+}
+```"
+inf1018 - monitoria,PUC,"```json
+{
+  ""task"": ""Fazer a monitoria de INF1018"",
+  ""type"": ""generated""
+}
+```"
+simulador de matricula,PUC,"```json
+{
+  ""task"": ""Simular a matrícula"",
+  ""type"": ""generated""
+}
+```"
+matricula puc,PUC,"```json
+{
+  ""task"": ""Fazer a matrícula na PUC"",
+  ""type"": ""generated""
+}
+```"
+inf1636 - programacao orientada a objetos,PUC,"```json
+{
+  ""task"": ""Estudar inf1636 - programação orientada a objetos"",
+  ""type"": ""generated""
+}
+```"
+inf1027 - teste e medicao de software,PUC,"```json
+{
+  ""task"": ""Estudar inf1027 - teste e medicao de software"",
+  ""type"": ""generated""
+}
+```"
+inf1383 - bancos de dados,PUC,"```json
+{
+  ""task"": ""Estudar inf1383 - bancos de dados"",
+  ""type"": ""generated""
+}
+```"
+inf1316 - sistemas operacionais,PUC,"```json
+{
+  ""task"": ""Estudar inf1316 - sistemas operacionais"",
+  ""type"": ""generated""
+}
+```"
+inf1403 - interacao humano computador,PUC,"```json
+{
+  ""task"": ""Estudar inf1403 - interacao humano computador"",
+  ""type"": ""generated""
+}
+```"
+de/para regimental,PUC,"```json
+{
+  ""task"": ""Verificar o de/para regimental"",
+  ""type"": ""generated""
+}
+```"
+so: lab 1,PUC,"```json
+{
+  ""task"": ""Fazer o laboratório 1 de Sistemas Operacionais"",
+  ""type"": ""generated""
+}
+```"
+ferias puc,PUC,"```json
+{
+  ""task"": ""Tirar férias na PUC"",
+  ""type"": ""generated""
+}
+```"
+inf1032 - ciencia de dados,PUC,"```json
+{
+  ""task"": ""Estudar inf1032 - ciência de dados"",
+  ""type"": ""generated""
+}
+```"
+inf1022 - analisadores lexicos e sintaticos,PUC,"```json
+{
+  ""task"": ""Estudar analisadores léxicos e sintáticos para INF1022."",
+  ""type"": ""generated""
+}
+```"
+inf1640 - redes de computadores,PUC,"```json
+{
+  ""task"": ""Estudar inf1640 - redes de computadores"",
+  ""type"": ""generated""
+}
+```"
+inf1631 - estruturas discretas,PUC,"```json
+{
+  ""task"": ""Estudar inf1631 - estruturas discretas"",
+  ""type"": ""generated""
+}
+```"
+cre1141 - etica crista,PUC,"```json
+{
+  ""task"": ""Estudar cre1141 - etica crista"",
+  ""type"": ""generated""
+}
+```"
+inf1028 - projeto e construcao de sistemas,PUC,"```json
+{
+  ""task"": ""Fazer o projeto e a construção de sistemas para INF1028."",
+  ""type"": ""generated""
+}
+```"
+inf1307 - desenvolvimento de jogos,PUC,"```json
+{
+  ""task"": ""Desenvolver jogos para INF1307"",
+  ""type"": ""generated""
+}
+```"
+inf1771 - inteligencia artificial,PUC,"```json
+{
+  ""task"": ""Estudar inf1771 - inteligencia artificial"",
+  ""type"": ""generated""
+}
+```"
+inf1010 - estruturas de dados avançadas,PUC,"```json
+{
+  ""task"": ""Estudar inf1010 - estruturas de dados avançadas"",
+  ""type"": ""generated""
+}
+```"
+inf1338 - large language models,PUC,"```json
+{
+  ""task"": ""Estudar inf1338 - large language models"",
+  ""type"": ""generated""
+}
+```"
+inf1721 - analise de algoritmos,PUC,"```json
+{
+  ""task"": ""Estudar análise de algoritmos para INF1721"",
+  ""type"": ""generated""
+}
+```"
+inf1036 - probabilidade computacional,PUC,"```json
+{
+  ""task"": ""Estudar inf1036 - probabilidade computacional"",
+  ""type"": ""generated""
+}
+```"
+inf1350 - programacao de sistemas reativos,PUC,"```json
+{
+  ""task"": ""Programar sistemas reativos para INF1350"",
+  ""type"": ""generated""
+}
+```"
+inf1920 - aula expositiva,PUC,"```json
+{
+  ""task"": ""Assistir à aula expositiva de inf1920"",
+  ""type"": ""generated""
+}
+```"
+conversa tcc felipe gameleira,PUC,"```json
+{
+  ""task"": ""Conversar sobre o TCC com Felipe Gameleira"",
+  ""type"": ""generated""
+}
+```"
+mat4162 - calculo ii,PUC,"```json
+{
+  ""task"": ""Estudar mat4162 - cálculo ii"",
+  ""type"": ""generated""
+}
+```"
+inf1314 - gerando startup com inteligencia artificial,PUC,"```json
+{
+  ""task"": ""Desenvolver uma startup com inteligência artificial para inf1314"",
+  ""type"": ""generated""
+}
+```"
+reuniao tcc,PUC,"```json
+{
+  ""task"": ""Fazer reunião do TCC"",
+  ""type"": ""generated""
+}
+```"
+teste calculo ii,PUC,"```json
+{
+  ""task"": ""Fazer teste de Cálculo II"",
+  ""type"": ""generated""
+}
+```"
+devs no pilotis,PUC,"```json
+{
+  ""task"": ""Encontrar devs no pilotis"",
+  ""type"": ""generated""
+}
+```"
+ingresso harry,Social,"```json
+{
+  ""task"": ""Comprar ingresso para Harry Potter"",
+  ""type"": ""generated""
+}
+```"
+niver gabi,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da Gabi"",
+  ""type"": ""generated""
+}
+```"
+nover sofia k,Social,"```json
+{
+  ""task"": ""nover sofia k"",
+  ""type"": ""original""
+}
+```"
+thor,Social,"```json
+{
+  ""task"": ""thor"",
+  ""type"": ""original""
+}
+```"
+the avengers,Social,"```json
+{
+  ""task"": ""Assistir The Avengers"",
+  ""type"": ""generated""
+}
+```"
+rafael portugal,Social,"```json
+{
+  ""task"": ""Encontrar Rafael Portugal"",
+  ""type"": ""generated""
+}
+```"
+niver giovanna lopes,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da Giovanna Lopes"",
+  ""type"": ""generated""
+}
+```"
+churrasclerigos,Social,"```json
+{
+  ""task"": ""Fazer o churrasclerigos"",
+  ""type"": ""generated""
+}
+```"
+almoco vo,Social,"```json
+{
+  ""task"": ""Almoçar com a vovó"",
+  ""type"": ""generated""
+}
+```"
+santa sexta,Social,"```json
+{
+  ""task"": ""Aproveitar a santa sexta"",
+  ""type"": ""generated""
+}
+```"
+niver gi fortes,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da Gi Fortes"",
+  ""type"": ""generated""
+}
+```"
+casamento,Social,"```json
+{
+  ""task"": ""Comemorar o casamento"",
+  ""type"": ""generated""
+}
+```"
+rock in rio,Social,"```json
+{
+  ""task"": ""Ir ao Rock in Rio"",
+  ""type"": ""generated""
+}
+```"
+niver amanda,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da Amanda"",
+  ""type"": ""generated""
+}
+```"
+niver luana maia,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da Luana Maia"",
+  ""type"": ""generated""
+}
+```"
+niver lara,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da Lara"",
+  ""type"": ""generated""
+}
+```"
+niver mae,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da mãe"",
+  ""type"": ""generated""
+}
+```"
+ballet marina,Social,"```json
+{
+  ""task"": ""Ir ao ballet com Marina"",
+  ""type"": ""generated""
+}
+```"
+harry styles - love on tour - rio de janeiro,Social,"```json
+{
+  ""task"": ""Assistir ao show do Harry Styles - Love on Tour no Rio de Janeiro"",
+  ""type"": ""generated""
+}
+```"
+pulo big jump,Social,"```json
+{
+  ""task"": ""Pular o big jump"",
+  ""type"": ""generated""
+}
+```"
+resenha felipe,Social,"```json
+{
+  ""task"": ""Fazer resenha com Felipe"",
+  ""type"": ""generated""
+}
+```"
+niver isabella,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da Isabella"",
+  ""type"": ""generated""
+}
+```"
+festa niver,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário"",
+  ""type"": ""generated""
+}
+```"
+niver felipe,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário do Felipe"",
+  ""type"": ""generated""
+}
+```"
+niver laura,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da Laura"",
+  ""type"": ""generated""
+}
+```"
+niver aninha,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da Aninha"",
+  ""type"": ""generated""
+}
+```"
+niver rapha,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário do Rapha"",
+  ""type"": ""generated""
+}
+```"
+prime day,Social,"```json
+{
+  ""task"": ""Aproveitar o Prime Day"",
+  ""type"": ""generated""
+}
+```"
+niver julia,Social,"```json
+{
+  ""task"": ""Comemorar o niver da Julia"",
+  ""type"": ""generated""
+}
+```"
+niver carol benchimol,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da Carol Benchimol"",
+  ""type"": ""generated""
+}
+```"
+festa duda castro,Social,"```json
+{
+  ""task"": ""Participar da festa da Duda Castro"",
+  ""type"": ""generated""
+}
+```"
+churras marcos,Social,"```json
+{
+  ""task"": ""Fazer churrasco com Marcos"",
+  ""type"": ""generated""
+}
+```"
+festa re,Social,"```json
+{
+  ""task"": ""festa re"",
+  ""type"": ""original""
+}
+```"
+viagem secretario,Social,"```json
+{
+  ""task"": ""Organizar a viagem do secretário"",
+  ""type"": ""generated""
+}
+```"
+os barbixas,Social,"```json
+{
+  ""task"": ""Assistir aos Barbixas"",
+  ""type"": ""generated""
+}
+```"
+rpg goulart,Social,"```json
+{
+  ""task"": ""Jogar RPG com Goulart"",
+  ""type"": ""generated""
+}
+```"
+churras caio,Social,"```json
+{
+  ""task"": ""Ir ao churrasco do Caio"",
+  ""type"": ""generated""
+}
+```"
+niver millena,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da Millena"",
+  ""type"": ""generated""
+}
+```"
+niver lu,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da Lu"",
+  ""type"": ""generated""
+}
+```"
+niver caroli,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da Caroli"",
+  ""type"": ""generated""
+}
+```"
+niver be,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário da Beatriz"",
+  ""type"": ""generated""
+}
+```"
+formatura renata,Social,"```json
+{
+  ""task"": ""Participar da formatura da Renata"",
+  ""type"": ""generated""
+}
+```"
+niver lucca,Social,"```json
+{
+  ""task"": ""Comemorar o aniversário do Lucca"",
+  ""type"": ""generated""
+}
+```"
+niver caio,Social,"```json
+{
+  ""task"": ""Comemorar o niver do Caio"",
+  ""type"": ""generated""
+}
+```"
+churras ze,Social,"```json
+{
+  ""task"": ""Fazer churrasco"",
+  ""type"": ""generated""
+}
+```"
+apple developer academy,Trabalho,"```json
+{
+  ""task"": ""Trabalhar na Apple Developer Academy"",
+  ""type"": ""generated""
+}
+```"
+animate ideas with keynote,Trabalho,"```json
+{
+  ""task"": ""Animar ideias com Keynote"",
+  ""type"": ""generated""
+}
+```"
+programar cena,Trabalho,"```json
+{
+  ""task"": ""programar cena"",
+  ""type"": ""original""
+}
+```"
+lab,Trabalho,"```json
+{
+  ""task"": ""Fazer o lab"",
+  ""type"": ""generated""
+}
+```"
+apple,Trabalho,"```json
+{
+  ""task"": ""apple"",
+  ""type"": ""original""
+}
+```"
+academy,Trabalho,"```json
+{
+  ""task"": ""Fazer a academy"",
+  ""type"": ""generated""
+}
+```"
+wwdc,Trabalho,"```json
+{
+  ""task"": ""Acompanhar a WWDC"",
+  ""type"": ""generated""
+}
+```"
+reuniao nick + tio,Trabalho,"```json
+{
+  ""task"": ""Fazer reunião com Nick e tio"",
+  ""type"": ""generated""
+}
+```"
+churrasco academy,Trabalho,"```json
+{
+  ""task"": ""Fazer o churrasco da academy"",
+  ""type"": ""generated""
+}
+```"
+trabalho i9,Trabalho,"```json
+{
+  ""task"": ""Trabalhar no i9"",
+  ""type"": ""generated""
+}
+```"
+i9 cultura,Trabalho,"```json
+{
+  ""task"": ""Desenvolver a i9 cultura"",
+  ""type"": ""generated""
+}
+```"
+reuniao prog atlas,Trabalho,"```json
+{
+  ""task"": ""Fazer reunião sobre o programa Atlas"",
+  ""type"": ""generated""
+}
+```"
+ecoa,Trabalho,"```json
+{
+  ""task"": ""ecoa"",
+  ""type"": ""original""
+}
+```"
+conversa bruno,Trabalho,"```json
+{
+  ""task"": ""Conversar com Bruno"",
+  ""type"": ""generated""
+}
+```"
+reuniao play time - goulart,Trabalho,"```json
+{
+  ""task"": ""Fazer a reunião play time com Goulart."",
+  ""type"": ""generated""
+}
+```"
+reuniao play time,Trabalho,"```json
+{
+  ""task"": ""Fazer a reunião Play Time"",
+  ""type"": ""generated""
+}
+```"
+m3,Trabalho,"```json
+{
+  ""task"": ""m3"",
+  ""type"": ""original""
+}
+```"
+petropolis,Viagens,"```json
+{
+  ""task"": ""Viajar para Petrópolis"",
+  ""type"": ""generated""
+}
+```"
+petropolis torres,Viagens,"```json
+{
+  ""task"": ""Visitar Petrópolis e as torres"",
+  ""type"": ""generated""
+}
+```"
+petropolis juliana,Viagens,"```json
+{
+  ""task"": ""Viajar para Petrópolis com Juliana"",
+  ""type"": ""generated""
+}
+```"

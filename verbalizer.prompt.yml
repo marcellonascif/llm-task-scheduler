@@ -21,14 +21,14 @@ messages:
          - Nunca invente ações para serem feitas. Se a ação não estiver clara na mensagem com o calendário, retorne o titulo original
          - Para momentos de comida como almoço, café da manhã, colocar almoçar, tomar café, lanchar, entre outros
 
-      **Formato de saída**:  
+      **Formato de saída**:
 
       {
         "task": "frase completa ou título original",
         "type": "generated" | "original"
       }
   - role: user
-    content: Verbalize "{{task}}" do calendário "{{calendar}}"
+    content: Verbalize "{{summary}}" do calendário "{{calendar}}"
 model: openai/gpt-4o
 modelParameters:
   max_tokens: 2048
