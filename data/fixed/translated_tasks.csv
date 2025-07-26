@@ -9,12 +9,9 @@ inf1410 - gerencia de projetos de informatica,PUC,Aula da disciplina INF1410 - G
 inf1608 - analise numerica,PUC,Aula da disciplina INF1608 - Análise Numérica,Attend INF1608 - Numerical Analysis class
 adm1019 - introducao a finanças,PUC,Aula da disciplina ADM1019 - Introdução a Finanças,Attend ADM1019 - Introduction to Finance class
 inf1629 - principios de engenharia de software,PUC,Aula da disciplina INF1629 - Princípios de Engenharia de Software,Attend INF1629 - Software Engineering Principles class
-parabens!,Pessoal,Dar parabéns,Congratulate
 psiquiatra,Saúde,Ir para consulta com o psiquiatra,Go to psychiatrist appointment
-!rm,Compromisso,Ir para rm,Go for MRI
 p3,Compromisso,Fazer a prova 3,Take exam 3
 psicologo,Saúde,Ir para consulta com o psicólogo,Go to psychologist appointment
-!zion,Compromisso,Ir para zion,Go to Zion
 autoescola,Compromisso,Ir para aula da autoescola,Go to driving lesson
 aula de violao,Compromisso,Ir para aula de violão,Go to guitar class
 cortar cabelo,Compromisso, Cortar o cabelo,Get a haircut
@@ -26,8 +23,6 @@ detran,Compromisso,Ir ao Detran,Go to the DMV
 aula de canto,Compromisso,Fazer aula de canto,Take a singing class
 aula de guitarra,Compromisso,Fazer aula de guitarra,Take a guitar class
 graduacao muay thai,Compromisso,Ir pra graduação de Muay Thai,Go to Muay Thai graduation
-!visita rede,Compromisso,Visitar a rede,Visit the network
-!mago da musica link,Compromisso,mago da musica link,Music wizard link
 conversa pedro,Compromisso,Conversar com Pedro,Talk with Pedro
 t2 algebra,Exames,Fazer o teste 2 de álgebra,Take Algebra test 2
 prova auto escola,Exames,Fazer a prova da auto escola,Take the driving test
@@ -102,19 +97,19 @@ ihc: apresentacao,Exames,Apresentar trabalho de Interação Humano-Computador,Pr
 de-para,PUC,Participar do de-para,Participate in the mapping
 de/para alternativo,Exames,participar do de-para alternativo,Participate in the alternative mapping
 cd - apresentacao,Exames,Fazer a apresentação de ciência de dados,Give the data science presentation
-pcs: apresentacao,Exames,Apresentar o trabalho de projeto de construcao de software,
+pcs: apresentacao,Exames,Apresentar o trabalho de projeto de construcao de software,Present the software construction project
 redes: p1,Exames,Fazer a prova 1 de redes de computadores,Take Computer Networks Exam 1
-ed: p1,Exames,Fazer a prova 1 de estudo dirigido,
-pcs: apresentacao g2,Exames,Apresentar o trabalho 2 de projeto de construção de software,
+ed: p1,Exames,Fazer a prova 1 de estudo dirigido,Take exam 1 of directed study
+pcs: apresentacao g2,Exames,Apresentar o trabalho 2 de projeto de construção de software,Present Software Construction
 redes: trab 1,Exames,Fazer o trabalho 1 de Redes de computadores,Do Computer Networks assignment 1
-cd: apresentacao g2,Exames,Apresentar o trabalho 2 de ciencia de dados,
+cd: apresentacao g2,Exames,Apresentar o trabalho 2 de ciencia de dados,Present Data Science Assignment 2
 redes: p2,Exames,Fazer a prova 2 de redes de computadores,Take Computer Networks exam 2
-ed: p2,Exames,Fazer a prova 2 de estudo dirigido,
-ed: lista 4,Exames,Fazer a lista 4 de estudo dirigido,
+ed: p2,Exames,Fazer a prova 2 de estudo dirigido,Take guided study exam 2
+ed: lista 4,Exames,Fazer a lista 4 de estudo dirigido,Work on directed study list 4
 p2 - eda,Exames, Fazer a prova 2 de Estrutura de dados avançadas,Take Advanced Data Structures exam 2
 apresentacao t2 - eda,Exames,Apresentar do segundo trabalho,Present the second assignment
 pf - eda,Exames,Fazer a prova final de estrutura de dados avançadas,Take the final exam of Advanced Data Structures
-psr: mp1,Exames,Fazer o exame 1 de programacao de sistemas reativos,
+psr: mp1,Exames,Fazer o exame 1 de programacao de sistemas reativos,Take Reactive Systems Programming Exam 1
 aa: p1,Exames,fazer prova 1 de analise de algoritmos,Take Analysis of Algorithms exam 1
 als - p1,Exames,fazer a prova 1 de analisadores léxicos e sintáticos,Take exam 1 on lexical and syntactic analyzers
 probcomp - t1,Exames,Fazer a prova 1 de Probabilidade Computacional,Take Computational Probability exam 1
@@ -127,7 +122,7 @@ apresentacao estagio,Exames,Apresentar no estágio,Present at the internship
 trabalho 3 aa,Exames,Fazer o trabalho 3 de analise de algoritmos,Do assignment 3 for Analysis of Algorithms
 probcomp - p2,Exames,Fazer a prova 2 de Probabilidade Computacional,Take Computational Probability exam 2
 trabalho als,Exames,Fazer o trabalho de analisadores léxicos e sintáticos,Do the lexical and syntactic analyzers assignment
-projeto final psr,Exames,Fazer o projeto final de programacao de sistemas reativos,
+projeto final psr,Exames,Fazer o projeto final de programacao de sistemas reativos,Do the reactive systems programming final project
 birusamba de verao,Social,Ir para o birusamba de verão,Go to the birusamba de verão
 t2 calculo,Exames,Fazer o teste 2 de cálculo,Take Calculus test 2
 p3 calculo,Exames,Fazer a prova 3 de cálculo,Take Calculus exam 3
@@ -144,8 +139,6 @@ exames de imagem,Saúde,Fazer exames de imagem,Have imaging exams
 bioimpedancia,Saúde,Fazer bioimpedância,Do bioimpedance
 oftalmologista,Saúde,Consultar o oftalmologista,See the ophthalmologist
 livre,Saúde,livre,Free
-!viviane nutri,Saúde,Consultar Viviane Nutri,Consult Viviane Nutri
-!dra. vania,Saúde,Agendar consulta com dra. Vania,Schedule appointment with Dr. Vania
 pilates,Saúde,Fazer pilates,Do pilates
 nutricionista,Saúde,Consultar a nutricionista,See the nutritionist
 hogwarts legacy,Games,Jogar Hogwarts Legacy,Play Hogwarts Legacy
@@ -154,12 +147,9 @@ diablo iv,Games,Jogar Diablo IV,Play Diablo IV
 gmtk gamejam,Games,Participar da GMTK Gamejam,Participate in GMTK Gamejam
 academia,Exercícios,Ir à academia,Go to the gym
 futevolei,Exercícios,Jogar futevolei,Play footvolley
-!academia ideal,Exercícios,Encontrar a academia ideal,Find the ideal gym
 muay thai,Exercícios,Fazer muay thai,Do Muay Thai
 basquete puc,Exercícios,Jogar basquete na PUC,Play basketball at PUC
 spinning,Exercícios,Fazer spinning,Do spinning
-!aula da liane,Pessoal,Fazer a aula da Liane,Attend Liane's class
-!casa do felipe,Pessoal,Ir à casa do Felipe,Go to Felipe's house
 aniversario da minha irma,Pessoal,Comemorar o aniversário da minha irmã,Celebrate my sister's birthday
 aniversario da minha mae,Pessoal,Comemorar o aniversário da minha mãe,Celebrate my mother's birthday
 ps plus,Pessoal,Comprar PS Plus,Buy PS Plus
@@ -167,10 +157,8 @@ meu aniversario,Pessoal,Comemorar meu aniversário,Celebrate my birthday
 aniversario do meu pai,Pessoal,Comemorar o aniversário do meu pai,Celebrate my father's birthday
 lembrar marie,Pessoal,lembrar marie,Remind Marie
 formatura csa,Pessoal,Participar da formatura da escola,Attend the school graduation
-help!,Pessoal,help!,Help!
 aula,PUC,Assistir aula,Attend class
 baile da gaiola,Pessoal,Ir ao baile da gaiola,Go to Baile da Gaiola
-!amazonia,Pessoal,amazonia,Amazonia
 aniversario de namoro,Pessoal,Comemorar o aniversário de namoro,Celebrate dating anniversary
 estudar calculo e ficha 2,Pessoal,estudar calculo e ficha 2,Study calculus and problem set 2
 season nova rl,Pessoal,Jogar a nova season de Rocket League,Play the new Rocket League season
@@ -185,35 +173,24 @@ feriado,Pessoal,Aproveitar o feriado,Enjoy the holiday
 itaipava,Social,Ir a Itaipava,Go to Itaipava
 niver,Pessoal,Comemorar o aniversário,Celebrate birthday
 foco,Pessoal,Manter o foco,Stay focused
-!primo rico,Pessoal,primo rico,Rich cousin
 devolucao zara,Pessoal,Devolver compras da Zara,Return Zara purchases
-!reuniao de cronograma do acessorio,Pessoal,Fazer a reunião de cronograma do acessório,Hold the scheduling meeting for the accessory
-c!orte masculino,Pessoal,Fazer corte masculino,Give a men's haircut
 gravacao comunicacao intercriar,Pessoal,Gravar a comunicação intercriar,Record the Intercriar communication
 oportunidade guelt | felipe khouri gameleira,Pessoal,Entrevista para a oportunidade guelt,Interview for the guelt opportunity
 wwdc-ss crash challenge,Pessoal,Fazer o desafio de crash da wwdc-ss,Do the wwdc-ss crash challenge
 aldeia,Social,ir para a festa,Go to the party
-!call checkpoint acessorio,Pessoal,Ligar para o checkpoint acessório,Call the accessory checkpoint
 aldeia sabado [feriado],Pessoal,Ir para a festa no sábado de feriado,Go to the party on the long weekend Saturday
 aldeia sabado,Pessoal,Ir para a festa no sábado,Go to the party on Saturday
-!gravacao acessorio,Pessoal,Gravar acessório,Engrave accessory
-!fone,Pessoal,fone,Phone
 quadcast,Pessoal,comprar microfone,Buy microphone
 gmkt jam - entrega,Pessoal,Entregar o jogo na gmkt jam,Submit the game to the gmkt jam
 reuniao com outsystems,Pessoal,Fazer reunião com Outsystems,Have a meeting with Outsystems
 wwdc teaching - kick off,Pessoal,Fazer o kick off do ensino da WWDC,Kick off the WWDC education
 wwdc teaching - first steps,Pessoal,Fazer os primeiros passos do ensino da WWDC,Go through the first steps of WWDC learning
-!avaliacao imobiliaria,Pessoal,Fazer a avaliação imobiliária,Perform the real estate appraisal
-!wwdc ilearning,Pessoal,Fazer o ilearning da WWDC,Complete the WWDC ilearning
-!mentoria inversu (felipe gameleira),Pessoal,Fazer mentoria inversu,Conduct reverse mentorship
 decompress,Pessoal,Descomprimir,Decompress
-!mentoria inversu - felipe gameleira,Pessoal,Fazer mentoria Inversu com Felipe Gameleira,Have Inversu mentoring with Felipe Gameleira
 reservation at yusha,Pessoal,Fazer uma reserva no restaurante,Make a reservation at the restaurant
 entrevista estagio: felipe,Pessoal,Participar de entrevista de estágio,Attend internship interview
 entrevista estagio desenvolvedor: felipe,Pessoal,Participar de entrevista de estágio desenvolvedor,Attend developer internship interview
 estudar calculo,Pessoal,Estudar cálculo,Study Calculus
 ai salon rio de janeiro,Pessoal,Ir para o AI Salon no Rio de Janeiro,Go to AI Salon in Rio de Janeiro
-ia &,Pessoal,ia &,
 ai salon rio de janeiro #4,Pessoal,Ir para o AI Salon no Rio de Janeiro,Go to the AI Salon in Rio de Janeiro
 ajuste de matricula,PUC,Participar do ajuste de matrícula,Participate in the course registration adjustment
 ajuste de matricula ii,PUC,Participar do ajuste de matrícula 2,Participate in the second registration adjustment
@@ -254,12 +231,8 @@ inf1314 - gerando startup com inteligencia artificial,PUC,aula de inf1314 - gera
 reuniao tcc,PUC,Fazer reunião do TCC,Have a thesis meeting
 teste calculo ii,PUC,Fazer teste de Cálculo II,Take Calculus II test
 devs no pilotis,PUC,Ir para evento devs no pilotis,Go to devs event at the pilotis
-!ingresso harry,Social,Comprar ingresso para Harry Potter,Buy ticket for Harry Potter
 niver gabi,Social,Comemorar o aniversário da Gabi,Celebrate Gabi's birthday
 nover sofia k,Social,comemorar o aniversario da sofia k,Celebrate Sofia K's birthday
-!thor,Social,thor,thor
-!the avengers,Social,Assistir The Avengers,Watch The Avengers
-!rafael portugal,Social,Encontrar Rafael Portugal,Meet Rafael Portugal
 niver giovanna lopes,Social,Comemorar o aniversário da Giovanna Lopes,Celebrate Giovanna Lopes' birthday
 churrasclerigos,Social,Ir para churrasco,Go to barbecue
 almoco vo,Social,Almoçar com a vovó,Have lunch with grandma
@@ -273,8 +246,6 @@ niver lara,Social,Comemorar o aniversário da Lara,Celebrate Lara's birthday
 niver mae,Social,Comemorar o aniversário da mãe,Celebrate mother's birthday
 ballet marina,Social,Levar namorada no ballet,Take girlfriend to the ballet
 harry styles - love on tour - rio de janeiro,Social,Assistir ao show do Harry Styles - Love on Tour no Rio de Janeiro,Attend the Harry Styles - Love on Tour concert in Rio de Janeiro
-!pulo big jump,Social,Pular o big jump,Jump the big jump
-!resenha felipe,Social,Fazer resenha com Felipe,Write a review with Felipe
 niver isabella,Social,Comemorar o aniversário da Isabella,Celebrate Isabella's birthday
 festa niver,Social,Comemorar o aniversário,Celebrate birthday
 niver felipe,Social,Comemorar o aniversário do Felipe,Celebrate Felipe's birthday
@@ -286,7 +257,6 @@ niver julia,Social,Comemorar o niver da Julia,Celebrate Julia's birthday
 niver carol benchimol,Social,Comemorar o aniversário da Carol Benchimol,Celebrate Carol Benchimol's birthday
 festa duda castro,Social,Participar da festa da Duda Castro,Attend Duda Castro's party
 churras marcos,Social,Fazer churrasco com Marcos,Have a barbecue with Marcos
-!festa re,Social,festa re,Reunion party
 viagem secretario,Social,Viajar para Secretário,Travel to Secretário
 os barbixas,Social,Assistir aos Barbixas,Watch Os Barbixas
 rpg goulart,Social,Jogar RPG com Goulart,Play RPG with Goulart
