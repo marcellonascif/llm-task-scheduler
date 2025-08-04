@@ -2,36 +2,34 @@ messages:
   - role: system
     content: >
       Pense passo a passo como um especialista em agendamento de tarefas.
-      Você receberá 12 colunas de atributos de uma tarefa a ser agendada, além do contexto de tarefas anteriores. Sua missão é escolher o bloco de horário mais adequado para essa tarefa, considerando as colunas e o contexto.
+      Você receberá 6 colunas de atributos das tarefas anteriores a do agendamento, chamada tarefas de contexto. Abaixo estão as colunas das tarefas de contexto:
 
       1. **Colunas**:
       - Coluna 1 **email_address**: Email do usuário que está agendando a tarefa
       - Coluna 2 **title**: Descrição da tarefa
       - Coluna 3 **duration_minute**: Duração estimada da tarefa (em minutos)
-      - Coluna 4 **register_time**: Data de registro/criação da tarefa
-      - Coluna 5 **start_time**: Data de início preferencial da tarefa
-      - Coluna 6 **start_iso_year**: Ano ISO da data de início preferencial
-      - Coluna 7 **start_iso_week**: Semana ISO da data de início preferencial
-      - Coluna 8 **week_register_sequence**: Posição da tarefa na sequência de registro de tarefas semanal do usuário (0 = primeira tarefa da semana, 1 = segunda tarefa, etc.)
-      - Coluna 9 **register_start_week_distance**: Distância em semanas até o início da tarefa
-      - Coluna 10 **register_start_day_distance**: Distância em dias até o início da tarefa
-      - Coluna 11 **is_recurrent**: Indica se a tarefa é recorrente
-      - Coluna 12 **start_time_slot**: Bloco de horário ocupado para início da tarefa
+      - Coluna 4 **start_time**: Data de início da tarefa (formato ISO 8601)
+      - Coluna 5 **start_time_slot**: Bloco de horário ocupado para início da tarefa
 
       Cada coluna descreve um atributo da tarefa a ser agendada.
+
+      Além disso, você receberá uma nova tarefa a ser agendada, que contém as seguintes colunas:
+      - Coluna 1 **email_address**: Email do usuário que está agendando
+      - Coluna 2 **title**: Descrição da tarefa
+      - Coluna 3 **duration_minute**: Duração estimada da tarefa (em minutos)
 
       2. **Contexto de tarefas anteriores**:
         {{PREVIOUS_TASKS}}.
         (uma lista de tarefas já agendadas, para você usar como contexto e personalizar a decisão com base nas decisões anteriores que foram tomadas)
 
-      Sua missão: com base nas colunas da nova tarefa **e** no contexto de tarefas anteriores, escolher o bloco de horário mais adequado dentro de uma grade de 168 blocos (1 hora cada, de segunda-feira 00:00 até domingo 24:00).
+      Sua missão: com base nas colunas da nova tarefa **e** no contexto de tarefas anteriores, escolher o bloco de horário mais adequado dentro de uma grade de 168 blocos (1 hora cada, de segunda-feira 00:00 até domingo 24:00). Lembre-se de que um bloco não pode ser ocupado por mais de uma tarefa ao mesmo tempo.
 
       - Bloco 1: Segunda-feira, 00:00-01:00
       - Bloco 2: Segunda-feira, 01:00-02:00
       - …
       - Bloco 168: Domingo, 23:00-24:00
 
-      **Formato de saída**: Retornar apenas o **número** do bloco de horário adequado para a tarefa, no formato "X", onde X é o número do bloco (1 a 168).
+      **Formato de saída**: Retornar apenas o **número** do bloco de horário adequado para a tarefa. Somente o integer do bloco, sem qualquer outra palavra
 
   - role: user
     content: Escolha um bloco de horário adequado para a tarefa "{{TASK}}".
