@@ -93,25 +93,6 @@ O projeto utiliza arquivos YAML para configuração de prompts:
 - `scheduler.prompt.yml`: Configuração do prompt do agendador
 - `verbalizer.prompt.yml`: Configuração do prompt do verbalizador
 
-## Desenvolvimento
-
-### Ativar ambiente virtual
-
-```bash
-poetry shell
-```
-
-### Adicionar novas dependências
-
-```bash
-poetry add nome_da_biblioteca
-```
-
-### Dependências de desenvolvimento
-
-```bash
-poetry add --group dev nome_da_biblioteca
-```
 
 ## Estrutura do projeto
 
